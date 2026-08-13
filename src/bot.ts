@@ -1,4 +1,4 @@
-import { OpenAI } from "openai"
+import { OpenAI } from "openai";
 import { DialogueDto } from "./dto/dialogueDto"
 import { DialogueRole } from "./enum/DialogueRole";
 

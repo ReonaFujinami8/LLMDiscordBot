@@ -11,5 +11,18 @@
   },
   "devDependencies": {
     "tsx": "^4.23.12"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReonaFujinami8/LLMDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReonaFujinami8/LLMDiscordBot/issues"
+  },
+  "homepage": "https://github.com/ReonaFujinami8/LLMDiscordBot#readme"
 }
